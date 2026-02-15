@@ -1,4 +1,3 @@
-## 🖼 Preview
 
 ![Preview do projeto](img/imagem.png)
 
