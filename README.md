@@ -23,7 +23,9 @@
   <a href="https://www.linkedin.com/in/joão-vitor-vale-de-jesus-148531367/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+<div>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31keob4lkfoz3o4pp74ibnsnzdnu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=ff0000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31keob4lkfoz3o4pp74ibnsnzdnu&redirect=true)
+</div>
 ##
 
 ![Snake animation](https://github.com/ValeJesus/ValeJesus/blob/output/github-contribution-grid-snake.svg)
