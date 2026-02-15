@@ -37,9 +37,9 @@
 
 ## 🎧 Now Playing
 
-💻 Estudante de Desenvolvimento de Sistemas  
-🚀 Focado em frontend e tecnologia  
-🎯 Sempre aprendendo algo novo  
+💻 As melhores segundo meu gosto musical 
+🚀 Ouvindo musica = Dançando mtt
+🎯 Meu gosto musical é unico
 
 ---
 
