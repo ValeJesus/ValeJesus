@@ -31,11 +31,37 @@
 
 ---
 
-## 🎧 O que estou ouvindo
+<table>
+<tr>
+<td width="55%">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31keob4lkfoz3o4pp74ibnsnzdnu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=ff0000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31keob4lkfoz3o4pp74ibnsnzdnu&redirect=true)
+## 🎧 Now Playing
+
+💻 Estudante de Desenvolvimento de Sistemas  
+🚀 Focado em frontend e tecnologia  
+🎯 Sempre aprendendo algo novo  
 
 ---
+
+### 🎵 Sobre meu gosto musical
+
+🔥 Curto muito **Trap, BoomBap e Drill**  
+🎧 Se aparecer uma música diferente, provavelmente estou me aventurando em novos sons  
+
+---
+
+☕ Café + Código + Música = Setup perfeito
+
+</td>
+
+<td width="45%" align="right">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31keob4lkfoz3o4pp74ibnsnzdnu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=ff0000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31keob4lkfoz3o4pp74ibnsnzdnu&redirect=true)
+
+</td>
+</tr>
+</table>
+
 
 ## 🐍 Contribuições
 
