@@ -1,7 +1,6 @@
-# 👋 Olá, eu sou o João
-💻 Estudante de Desenvolvimento de Sistemas  
-🚀 Focado em Frontend e Tecnologia  
-🎯 Apaixonado por aprender e criar soluções  
+## 🖼 Preview
+
+![Preview do projeto](img/imagem.png)
 
 ---
 
