@@ -37,9 +37,9 @@
 
 ## 🎧 Now Playing
 
-💻 As melhores segundo meu gosto musical 
-🚀 Ouvindo musica = Dançando mtt
-🎯 Meu gosto musical é unico
+💻 As melhores segundo meu gosto musical <br>
+🚀 Ouvindo musica = Dançando mtt <br>
+🎯 Meu gosto musical é unico <br>
 
 ---
 
