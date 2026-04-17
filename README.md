@@ -64,9 +64,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ValeJesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-https://github-readme-stats.vercel.app/api/top-langs/?username=ValeJesus
-</div>
-
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValeJesus&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"
+/>
   
 ## 🐍 Contribuições
 
