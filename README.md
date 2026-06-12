@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:e63946&height=130&section=header&text=João%20Vitor%20Vale&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Front-End%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=75&descSize=16"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=e63946&center=true&vCenter=true&width=600&lines=FullStack+Developer+%7C+Front+end+%26+Backend%7C%2B;%E2%98%95+Caf%C3%A9+%2B+C%C3%B3digo+%2B+M%C3%BAsica+%3D+Setup+Perfeito;Always+building%2C+always+leveling+up+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=e63946&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+React+%26+TypeScript;JavaScript+%7C+Python+%7C+HTML+%2B+CSS;%E2%98%95+Caf%C3%A9+%2B+C%C3%B3digo+%2B+M%C3%BAsica+%3D+Setup+Perfeito;Always+building%2C+always+leveling+up+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -74,10 +74,10 @@ const joao = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-</div >
+</div>
 
 ---
-<div align="center">
+
 ## 🎧 Música & Setup
 
 <table>
@@ -99,7 +99,6 @@ const joao = {
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
@@ -124,9 +123,9 @@ const joao = {
 ## 🐍 Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ValeJesus/ValeJesus/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ValeJesus/ValeJesus/blob/output/github-contribution-grid-snake.svg">
-  <img alt="snake contribution graph" src="https://github.com/ValeJesus/ValeJesus/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ValeJesus/ValeJesus/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValeJesus/ValeJesus/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/ValeJesus/ValeJesus/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
