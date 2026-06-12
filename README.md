@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:e63946&height=130&section=header&text=João%20Vitor%20Vale&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Front-End%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=75&descSize=16"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=e63946&center=true&vCenter=true&width=600&lines=Front-End+Developer+%7C+React+%26+TypeScript;JavaScript+%7C+Python+%7C+HTML+%2B+CSS;%E2%98%95+Caf%C3%A9+%2B+C%C3%B3digo+%2B+M%C3%BAsica+%3D+Setup+Perfeito;Always+building%2C+always+leveling+up+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=e63946&center=true&vCenter=true&width=600&lines=FullStack+Developer+%7C+Front+end+%26+Backend%7C%2B;%E2%98%95+Caf%C3%A9+%2B+C%C3%B3digo+%2B+M%C3%BAsica+%3D+Setup+Perfeito;Always+building%2C+always+leveling+up+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
