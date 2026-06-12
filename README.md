@@ -75,7 +75,7 @@ const joao = {
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 </div>
-
+<div align="center">
 ---
 
 ## 🎧 Música & Setup
@@ -99,6 +99,8 @@ const joao = {
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
