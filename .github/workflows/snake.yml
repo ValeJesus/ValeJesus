@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Pacman Animation
 
 on:
   schedule:
@@ -10,19 +10,18 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake (tema dark/vermelho)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=e63946&color_dots=#0d1117,#1a0a0a,#4d0a0a,#800000,#e63946
 
-      - name: Push snake SVGs para branch output
+      - name: Push para branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
