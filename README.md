@@ -74,10 +74,10 @@ const joao = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-</div>
+</div >
 
 ---
-
+<div align="center">
 ## 🎧 Música & Setup
 
 <table>
@@ -99,7 +99,7 @@ const joao = {
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 📊 Estatísticas
