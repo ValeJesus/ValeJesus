@@ -100,6 +100,7 @@ const joao = {
 </tr>
 </table>
 </div>
+
 ---
 
 ## 📊 Estatísticas
