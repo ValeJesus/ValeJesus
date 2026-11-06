@@ -134,7 +134,7 @@ const joao = {
 
 <p align="center">
   <i>Aberto a oportunidades de estágio ou júnior — presencial, híbrido ou remoto.</i><br/>
-  <b>Bora construir algo incrível juntos. 🚀</b>
+  
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e63946,100:0d0d0d&height=120&section=footer"/>
